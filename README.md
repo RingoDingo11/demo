@@ -1,1 +1,1 @@
-This is a demo Readme file for testing only.
+This is a demo Readme file.
