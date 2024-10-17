@@ -1,2 +1,2 @@
 const hello = "Hello there!";
-const x = 2 + 4;
+// const x = 2 + 4;
